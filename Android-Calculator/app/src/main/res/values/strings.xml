@@ -1,0 +1,22 @@
+<resources>
+    <string name="zero"></string>
+    <string name="one"></string>
+    <string name="two"></string>
+    <string name="three"></string>
+    <string name="four"></string>
+    <string name="five"></string>
+    <string name="six"></string>
+    <string name="seven"></string>
+    <string name="eight"></string>
+    <string name="nine"></string>
+    <string name="divide"></string>
+    <string name="multiply"></string>
+    <string name="add"></string>
+    <string name="subtract"></string>
+    <string name="equals"></string>
+    <string name="clear"></string>
+    <string name="square"></string>
+    <string name="cube"></string>
+    <string name="backspace"></string>
+    <string name="display"></string>
+</resources>
